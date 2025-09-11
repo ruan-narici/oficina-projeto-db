@@ -1,8 +1,8 @@
-# 🔧 PROJETO OFICINA — Narrativa
+### 🔧 PROJETO OFICINA — Narrativa
 
 ---
 
-## 🧩 Contexto
+### 🧩 Contexto
 
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas.
@@ -18,7 +18,7 @@
 
 ---
 
-## 📝 Observação
+### 📝 Observação
 
 O **Modelo Entidade-Relacionamento (MER)** foi desenvolvido a partir desta narrativa.
 👉 [Acesse o MER](./mer.drawio.png)
