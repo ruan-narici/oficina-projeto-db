@@ -21,7 +21,7 @@
 ### 📝 Observação
 
 O **Modelo Entidade-Relacionamento (MER)** foi desenvolvido a partir desta narrativa:  
-![MER](./mer.drawio.png)
+![MER](./mer.png)
 
 ---
 
