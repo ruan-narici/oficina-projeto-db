@@ -1,0 +1,16 @@
+INSERT INTO tbl_pecas (ds_peca, qt_estoque, vl_peca) VALUES
+('Filtro de óleo', 120.000, 25.00),
+('Filtro de ar', 90.000, 35.00),
+('Filtro de combustível', 60.000, 40.00),
+('Pastilha de freio dianteira', 80.000, 150.00),
+('Amortecedor dianteiro', 50.000, 320.00),
+('Correia dentada', 70.000, 180.00),
+('Velas de ignição (jogo)', 40.000, 90.00),
+('Bateria 60Ah', 30.000, 480.00),
+('Disco de freio', 55.000, 220.00),
+('Sensor de oxigênio', 25.000, 190.00),
+('Bico injetor', 35.000, 160.00),
+('Rolamento de roda', 45.000, 110.00),
+('Lâmpada H7 55W', 100.000, 25.00),
+('Kit embreagem', 20.000, 650.00),
+('Radiador de arrefecimento', 15.000, 780.00);
